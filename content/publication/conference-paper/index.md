@@ -6,7 +6,7 @@ title: 'Software Testing With Large Language Models: Survey, Landscape, and Visi
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - Junjie Wang
-  - *Yuchao Huang*
+  - Yuchao Huang
   - Chunyang Chen
   - Zhe Liu
   - Song Wang
