@@ -24,7 +24,7 @@ role: Ph.D. Candidate
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Institute of Software (ISCAS)
+  - name: Institute of Software (ISCAS)\nyuchao2019@iscas.ac.cn
     url: http://www.iscas.ac.cn
 
 # Social network links
