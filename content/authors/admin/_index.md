@@ -27,6 +27,9 @@ organizations:
   - name: Institute of Software (ISCAS)
     url: http://www.iscas.ac.cn
 
+organizations:
+  - name: yuchao2019@iscas.ac.cn
+
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
