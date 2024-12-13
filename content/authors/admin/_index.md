@@ -24,14 +24,15 @@ role: Ph.D. Candidate
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Institute of Software (ISCAS)\nyuchao2019@iscas.ac.cn
+  - name: Institute of Software (ISCAS)
     url: http://www.iscas.ac.cn
+  - name: yuchao2019@iscas.ac.cn
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'yuchao2019@iscas.ac.cn'
+    url: yuchao2019@iscas.ac.cn
     label: E-mail Me
   - icon: brands/github
     url: https://github.com/wuchiuwong
