@@ -34,7 +34,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: yuchao2019@iscas.ac.cn
+    url: mailto:yuchao2019@iscas.ac.cn
     label: E-mail Me
   - icon: brands/github
     url: https://github.com/wuchiuwong
